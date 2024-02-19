@@ -1,0 +1,8 @@
+{
+  "realm": "realmtest",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "fodclient",
+  "public-client": true,
+  "confidential-port": 0
+}
